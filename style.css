@@ -288,5 +288,14 @@ footer h1
 	padding-top: 20px;
 	color: #777;
 }
+footer p a
+{
+	display: block;
+	color: white;
+	text-transform: uppercase;
+	float: right;
+	margin-top: 10px;
+	background-color: #02b8dd;
+}
 
 
